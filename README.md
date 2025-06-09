@@ -5,7 +5,7 @@ This folder contains the architecture-related resources for the Mir ChatApp proj
 ## Overview
 The architecture of the Mir ChatApp is designed to ensure scalability, reliability, and maintainability. The system components and their interactions are illustrated in the diagram below:
 
-![Architecture Diagram](../mir_chatapp.png)
+![Architecture Diagram](/mir_chatapp.png)
 
 ## Contents
 - `mir_chatapp.drawio`: The source file for the architecture diagram, editable using draw.io or compatible tools.
